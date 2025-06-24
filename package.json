@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/v6174/aqa-advanced./issues"
   },
-  "homepage": "https://github.com/v6174/aqa-advanced.#readme",
-  "dependencies": {
-    "chalk": "^5.4.1"
-  }
+  "homepage": "https://github.com/v6174/aqa-advanced.#readme"
 }
